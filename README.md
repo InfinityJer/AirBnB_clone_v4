@@ -156,6 +156,5 @@ No known bugs at this time.
 ## Authors
 Ronnie Obiayo - Github:(https://github.com/RObiayo) Jeremih Kuria - Github:(https://github.com/InfinityJer)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
